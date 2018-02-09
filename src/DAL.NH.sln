@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.NH", "DAL.NH\DAL.NH.csproj", "{1A7516B0-47C4-4A27-83C6-91150F95B9B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{1A7516B0-47C4-4A27-83C6-91150F95B9B6}.Test|Any CPU.Build.0 = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00666654-8C59-4F49-9ADF-17A33234E67E}
+	EndGlobalSection
+EndGlobal
